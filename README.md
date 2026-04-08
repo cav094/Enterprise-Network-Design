@@ -75,5 +75,5 @@ The lab demonstrates VLAN segmentation, inter-VLAN routing, and high availabilit
 
 ## 👤 Author
 
-Kelvin Mbaba
-Network Administrator (MikroTik | Routing | VLAN | MPLS)
+Kelvin Zakayo
+Network Administrator (MikroTik | Cisco | Routing | VLAN | MPLS)
